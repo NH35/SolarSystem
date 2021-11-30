@@ -1,4 +1,4 @@
 # SolarSystem
-Newton Law in JS canvas
+Newton Laws in JS canvas
 
 ![canvas ScreenShot](SSv4.JPG)
